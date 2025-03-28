@@ -9,4 +9,4 @@ doc/
 model/
 search.py
 
-log/
+# log/

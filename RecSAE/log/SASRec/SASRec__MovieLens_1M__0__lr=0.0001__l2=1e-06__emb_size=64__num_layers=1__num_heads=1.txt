@@ -1,0 +1,62 @@
+INFO:root:Namespace(model_name='SASRec', model_mode='')
+INFO:root:--------------------------------------------- BEGIN: 2025-03-27 15:08:10 ---------------------------------------------
+INFO:root:
+===================================
+ Arguments          | Values       
+===================================
+ batch_size         | 256         
+ data_appendix      |             
+ dataset            | MovieLens_1M
+ dropout            | 0           
+ early_stop         | 10          
+ emb_size           | 64          
+ epoch              | 200         
+ eval_batch_size    | 256         
+ gpu                | 0           
+ history_max        | 20          
+ l2                 | 1e-06       
+ lr                 | 0.0001      
+ main_metric        |             
+ num_heads          | 1           
+ num_layers         | 1           
+ num_neg            | 1           
+ num_workers        | 5           
+ optimizer          | Adam        
+ random_seed        | 0           
+ save_final_results | 1           
+ test_all           | 1           
+ topk               | 5,10,20,50  
+===================================
+INFO:root:Device: cpu
+INFO:root:Reading data from "../data", dataset = "MovieLens_1M" 
+INFO:root:Namespace(model_name='SASRec', model_mode='')
+INFO:root:--------------------------------------------- BEGIN: 2025-03-27 15:18:43 ---------------------------------------------
+INFO:root:
+===================================
+ Arguments          | Values       
+===================================
+ batch_size         | 256         
+ data_appendix      |             
+ dataset            | MovieLens_1M
+ dropout            | 0           
+ early_stop         | 10          
+ emb_size           | 64          
+ epoch              | 200         
+ eval_batch_size    | 256         
+ gpu                | 0           
+ history_max        | 20          
+ l2                 | 1e-06       
+ lr                 | 0.0001      
+ main_metric        |             
+ num_heads          | 1           
+ num_layers         | 1           
+ num_neg            | 1           
+ num_workers        | 5           
+ optimizer          | Adam        
+ random_seed        | 0           
+ save_final_results | 1           
+ test_all           | 1           
+ topk               | 5,10,20,50  
+===================================
+INFO:root:Device: cpu
+INFO:root:Reading data from "../data", dataset = "MovieLens_1M" 
